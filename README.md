@@ -1,1 +1,1 @@
-# Personal website to log personal projets
+# Personal website to log personal projects
